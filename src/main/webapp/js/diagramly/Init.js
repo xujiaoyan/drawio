@@ -152,7 +152,7 @@ window.mxLanguageMap = window.mxLanguageMap ||
 	'th' : 'ไทย',
 	'ko' : '한국어',
 	'ja' : '日本語',
-	'zh' : '简体中文123',
+	'zh' : '简体中文1231456',
 	'zh-tw' : '繁體中文'
 };
 
